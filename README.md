@@ -2,7 +2,6 @@
 
 Teste para desenvolvedores em processo de seleção na [Married Games](https://marriedgames.com.br).
 
-Esse teste consiste em construir um bot crawler que irá coletar dados da [Steam](https://store.steampowered.com/?l=portuguese), gerará um banco de dados e então uma saída organizando todos os dados coletatos.
 
 ## Objetivo do teste
 Precisamos de um sistema de gerenciamento podcast onde o usuário pode criar (CRUD) episódios, séries, associar episódios a séries e publicar em uma plataforma como google podcast ou spotfy.
