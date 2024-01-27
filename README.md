@@ -1,6 +1,6 @@
-# test-podcast-firebase
+# test-podcast-firesupa
 
-Teste para desenvolvedores em processo de seleção na [Married Games](https://marriedgames.com.br).
+Teste para desenvolvedores em processo de seleção na [Married Games](https://studiomarriedgames.com).
 
 
 ## Objetivo do teste
